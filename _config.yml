@@ -1,0 +1,12 @@
+# Site settings
+title: Kristen Garofali
+email: kgarofali@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://kgarofali.github.io" # the base hostname & protocol for your site
+twitter_username: kgarofali
+github_username:  kgarofali
+ads_link: "http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?return_req=no_params&author=Garofali,%20Kristen%20R.%20A.&db_key=PR"
+
+# Build settings
+markdown: kramdown
