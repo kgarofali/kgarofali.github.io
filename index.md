@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: default
 
 ---
 
-<img src="images/twitpic.png" style="height:250px; padding-right: 10px; padding-bottom: 10px" align="left">
 
 ##About Me
 <p style='text-align: left; padding-right: 150px'>
