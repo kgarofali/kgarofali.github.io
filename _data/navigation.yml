@@ -1,0 +1,20 @@
+# Site navigation links
+
+- title: CV
+  url: /docs/grad_CV.pdf
+  image: twitpic.png
+  excerpt: Things!
+- title: Research
+  url: /research/
+  excerpt: My research work as a graduate student. 
+  image: hmxb.jpg
+- title: Teaching
+  url: /teaching/
+  image: battlepoint.jpg
+  excerpt: Information about classes I'm currently teaching.  
+- title: Outreach
+  url: /outreach/
+  excerpt: Astro-fun! 
+  image: AoTlogo.png
+
+
