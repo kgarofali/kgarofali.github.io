@@ -349,3 +349,14 @@
 		}
 	}
 }
+
+footer .menu-item li img {
+  max-height: 23px;
+  opacity: .75;
+}
+footer .menu-item li a:hover img, .menu-item li a:active {
+  opacity: 1;
+}
+.nav-lines {
+  top: -4px;
+}
