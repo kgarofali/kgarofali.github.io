@@ -24,9 +24,9 @@ gems:
 # Site owner
 owner:
   name: Kristen Garofali
-  email:garofali@uw.edu
-  twitter:kgarofali
-  avatar:twitpic.png # 160x160 px image for author byline
+  email: garofali@uw.edu
+  twitter: kgarofali
+  avatar: twitpic.png # 160x160 px image for author byline
 footer_links:
   github: kgarofali
   twitter: kgarofali
