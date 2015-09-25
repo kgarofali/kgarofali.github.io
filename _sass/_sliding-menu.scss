@@ -126,6 +126,7 @@
     a {
       display: block;
       color: $white;
+      clear: both;
       text-decoration: none;
     }
     .teaser {
@@ -142,7 +143,6 @@
     }
     a:hover .teaser {
       opacity: 1;
-      clear: both;
     }
     .title {
       display: block;
