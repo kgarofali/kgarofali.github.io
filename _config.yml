@@ -27,7 +27,7 @@ owner: Kristen Garofali
   email:garofali@uw.edu
   twitter:kgarofali
   avatar:twitpic.png # 160x160 px image for author byline
-footer-links:
+footer_links:
   github: kgarofali
   twitter: kgarofali
 footer-links-active:
