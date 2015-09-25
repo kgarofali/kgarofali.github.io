@@ -129,7 +129,7 @@
       text-decoration: none;
     }
     .teaser {
-      position: absolute;
+      float: left;
       left: 0;
       margin-bottom: 0;
       width: 50px;
@@ -142,6 +142,7 @@
     }
     a:hover .teaser {
       opacity: 1;
+      clear: both;
     }
     .title {
       display: block;
