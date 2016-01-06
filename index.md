@@ -4,7 +4,10 @@ layout: default
 ---
 
 
-![](../images/melando.png)
+
+<table class="image" align="center">
+<tr><td><img src="../images/melando.png" height="352px" width="345px"></td></tr>
+</table><br>
 
 ##About Me
 <p style='text-align: left; padding-right: 150px'>
