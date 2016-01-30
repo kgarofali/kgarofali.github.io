@@ -7,7 +7,7 @@ layout: default
 
 <p style="
 	float: left;
-	margin: 0 20px  20px;
+	margin: 0 24px  24px;
 ">
 <img src="../images/melando.png" height="352px" width="345px">
 </p>
