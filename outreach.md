@@ -8,5 +8,5 @@ I am a co-organizer of [Astronomy on Tap](http://astronomyontap.org/) (AoT) in [
 
 <table class="image">
 <tr><td><img src="../images/AoT_crowd_Peddler.jpg"></td></tr>
-<tr><td class="caption"><font size="2">Astronomy on Tap Seattle crowd at Peddler Brewing Company, August 2016. The </font></td></tr>
+<tr><td class="caption"><font size="2">Astronomy on Tap Seattle crowd at Peddler Brewing Company, August 2016.</font></td></tr>
 </table><br>
