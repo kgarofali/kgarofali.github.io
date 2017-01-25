@@ -9,7 +9,7 @@ layout: default
 	float: left;
 	margin: 0 24px  24px;
 ">
-<img src="../images/melando.png" height="352px" width="345px">
+<img src="../images/garofali.jpg" height="352px" width="345px">
 </p>
 
 ## About Me
