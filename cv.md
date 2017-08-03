@@ -1,5 +1,5 @@
 ---
 layout: default
 title: CV
-permalink: docs/grad_CV.pdf
+permalink: docs/KG_gradCV_onecol.pdf
 ---
