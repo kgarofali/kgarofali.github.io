@@ -5,7 +5,7 @@ permalink: /research/
 ---
 
 
-Broadly, my research interests are in probing massive star and binary evolution from the X-ray perspective. More specifically, I study high-mass X-ray binaries (HMXBs) and supernova remnants (SNRs) (latest SNR paper [here](../docs/SNRpaper.pdf)) in order to learn more about the life and death cycles of massive stars, and the effects of binaries on massive star evolution. For my thesis, I am focused on probing these populations in the nearby, star-forming spiral M33 using *Chandra*, *Hubble*, and *XMM-Newton* data.
+Broadly, my research interests are in probing massive star and binary evolution from the X-ray perspective. More specifically, I study high-mass X-ray binaries (HMXBs) and supernova remnants (SNRs) (latest SNR paper [here](https://arxiv.org/abs/1708.01239) in order to learn more about the life and death cycles of massive stars, and the effects of binaries on massive star evolution. For my thesis, I am focused on probing these populations in the nearby, star-forming spiral M33 using *Chandra*, *Hubble*, and *XMM-Newton* data.
 
 <table class="image" align="center">
 <tr><td><img src="../images/m33coverage.gif" height="588px" width="600px"></td></tr>
