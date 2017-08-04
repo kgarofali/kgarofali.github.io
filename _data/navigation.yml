@@ -3,16 +3,16 @@
 - title: CV
   url: /docs/KG_gradCV_onecol.pdf
   image: cv_small.png
-  excerpt: Click me for CV.
+  #excerpt: Click me for CV.
 - title: Research
   url: /research/
-  excerpt: My research work as a graduate student.
+  #excerpt: My research work as a graduate student.
   image: hmxb.jpg
 - title: Teaching
   url: /teaching/
   image: battlepoint.jpg
-  excerpt: Information about classes I'm currently teaching.
+  #excerpt: Information about classes I'm currently teaching.
 - title: Outreach
   url: /outreach/
-  excerpt: Astro-fun!
+  #excerpt: Astro-fun!
   image: aot_glass.png
