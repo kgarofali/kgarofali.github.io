@@ -2,7 +2,7 @@
 - title: Home
   url: http://kgarofali.github.io
 - title: CV
-  url: /docs/grad_CV.pdf
+  url: /docs/KG_gradCV_onecol.pdf
 - title: Research
   url: /research/
 - title: Teaching
@@ -13,4 +13,4 @@
   url: http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?return_req=no_params&author=Garofali,%20Kristen%20R.%20A.&db_key=PR
 - name: Email
   icon: mail
-  url: garofali@uw.edu 
+  url: garofali@uw.edu
