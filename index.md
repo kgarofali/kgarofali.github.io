@@ -14,10 +14,8 @@ layout: default
 
 ## About Me
 <p style='text-align: left; padding-right: 150px'>
-I am a postdoctoral fellow in the Department of Physics at the University of Arkansas. I received my PhD in Astronomy at the University of Washington, and my BS in Astrophysics and Physics from Michigan State University. For more information on my research, teaching, and outreach please see my <a href="docs/garofali_CV.pdf">CV</a> or the links at the top of the page.</p>
+I am currently a NASA Postdoctoral Program Fellow at Goddard Space Flight Center in the X-ray Galaxies Group. I received my PhD in Astronomy at the University of Washington, and my BS in Astrophysics and Physics from Michigan State University. For more information on my research, teaching, and outreach please see my <a href="docs/garofali_CV.pdf">CV</a> or the links at the top of the page.</p>
 
 # Contact
 
 **Email**: garofali AT uark DOT edu
-
-**Office**: Physics Building (PHYS) 248
